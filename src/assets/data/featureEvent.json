@@ -1,21 +1,21 @@
 {
-    "FeatureEventName":"Flutter Interact",
-    "EventImage":"Flutter.png",
+    "FeatureEventName":"Hashcode 2020",
+    "EventImage":"HC20.png",
     "EventDate":{
-        "Date":"11",
-        "Month":"12",
-        "Year":"2019"
+        "Date":"20",
+        "Month":"2",
+        "Year":"2020"
     },
     "EventTime":{
-        "StartTime":"09:00 AM",
-        "EndTime":"04:30 PM"
+        "StartTime":"11:00 AM",
+        "EndTime":"04:00 PM"
     },
-    "EventVenue":"Flutter Interact",
-    "EventVenueMapLink":"https://www.meetup.com/GDG-Little-Rock/",
-    "EventWebsite":"http://g.co/FlutterInteract",
-    "EventDescription":"On December 11, interact, innovate and collaborate with the global community. Streaming live around the globe.",
-    "MeetupLink":"https://www.meetup.com/GDG-Little-Rock/",
-    "RegistrationLink":"http://g.co/FlutterInteract",
+    "EventVenue":"Hashcode 2020",
+    "EventVenueMapLink":"https://www.meetup.com/GDG-Little-Rock/events/267990874/",
+    "EventWebsite":"http://g.co/hashcode",
+    "EventDescription":"Join us on the campus of UA Little Rock for the Online Qualification Round of Hash Code, a team programming competition organized by Google. The Online Qualification Round takes place on February 20, 2020 at 11 am and registered teams from Central Arkansas are invited to participate from our hub, which will take place on the 4th floor of the EIT building. Top scoring teams from the Online Qualification Round will then be invited to Google Ireland to compete in the Final Round of the competition in April. If you’re interested in joining our hub, find a team (2 to 4 people) and be sure you all register at g.co/hashcode. You’ll then need to select University of Arkansas Little Rock and GDG Little Rock from the list of hubs in the Judge System.",
+    "MeetupLink":"https://www.meetup.com/GDG-Little-Rock/events/267990874/",
+    "RegistrationLink":"http://g.co/hashcode",
     "FBEventPageURL":"s"
 }
 
