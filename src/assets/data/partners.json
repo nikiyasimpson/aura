@@ -18,6 +18,11 @@
         "name":"Arkansas Regional Innovation Hub",
         "link":"https://arhub.org/",
         "img":"arinvhub.jpg"
+    },
+    {
+        "name":"UALR Emerging Analytics Center",
+        "link":"https://ualr.edu/emerginganalytics/",
+        "img":"eac.svg"
     }
 
 ]
