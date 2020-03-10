@@ -1,14 +1,14 @@
 {
     "FeatureEventName":"IWD: International Women's Day",
-    "EventImage":"International Women's Day.png",
+    "EventImage":"WTM2020SM.png",
     "EventDate":{
-        "Date":"11",
-        "Month":"3",
+        "Date":"25",
+        "Month":"4",
         "Year":"2020"
     },
     "EventTime":{
-        "StartTime":"6:00 PM",
-        "EndTime":"08:00 PM"
+        "StartTime":"10:00 AM",
+        "EndTime":"01:00 PM"
     },
     "EventVenue":"IWD: International Women's Day Celebration: Reframing Your Narrative",
     "EventVenueMapLink":"https://www.meetup.com/GDG-Little-Rock/events/268681277/",
